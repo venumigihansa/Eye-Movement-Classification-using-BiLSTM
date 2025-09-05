@@ -67,17 +67,13 @@ The classifier processes sequential gaze data and predicts one of 8 activities.
 ## 📈 Evaluation Metrics
 
 - **Accuracy:**  
-  \[
-  \text{Accuracy} = \frac{\text{correct predictions}}{\text{total predictions}}
-  \]
+
 
 - **Macro F1-Score:**  
-  \[
-  \text{Macro-F1} = \frac{1}{C}\sum_{c=1}^C \frac{2 \cdot \text{Precision}_c \cdot \text{Recall}_c}{\text{Precision}_c + \text{Recall}_c}
-  \]  
+ 
   Ensures fair performance across all classes, even if imbalanced.  
 
-- **Confusion Matrix:** Helps visualize class-specific performance.  
+- **Confusion Matrix:
 
 ---
 
