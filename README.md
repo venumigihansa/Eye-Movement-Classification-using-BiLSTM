@@ -64,6 +64,9 @@ The classifier processes sequential gaze data and predicts one of 8 activities.
 
 ---
 
+<img width="1154" height="757" alt="image" src="https://github.com/user-attachments/assets/c78712f5-2c3a-4461-a447-7730d745dcbf" />
+
+
 ## 📈 Evaluation Metrics
 
 - **Accuracy:**  
